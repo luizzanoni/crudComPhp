@@ -1,6 +1,4 @@
-
-# Setup Docker Laravel 11 com PHP 8.3
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+# Setup Docker Laravel
 
 ### Passo a passo
 Instale as dependências do projeto
