@@ -1,6 +1,8 @@
-antes de iniciar devemos instalar o conposer `composer install`
-outro para criar a KEY `php artisan key:generate`
-para criar o banco `php artisan migrate`
+## Antes de qualquer coisa 
+ - instalar o conposer `composer install`
+ - criar a KEY `php artisan key:generate`
+ - criar o banco `php artisan migrate`
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
